@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <h1>Hi! I'm Aaron or iaaron.xyz here in github :smile:</h1>
-    <h3>I am a physicist with passion for programming and art looking for creative ways to mix those 3 fields :</h3>
+    <h1>Hi! I'm Aaron :smile:</h1>
+    <h3>I am a physicist with passion for science, programming and art.</h3>
 </div>
 
 <div id="badges" align="center">
