@@ -1,7 +1,10 @@
 <div id="header" align="center">
-    <h1>Hi! I'm Aaron :smile:</h1>
-    <h3>I am a physicist with passion for science, programming and art.</h3>
+    <h1>Hi! I'm Aaron :smiley:</h1>
+    <p align="left">I am a physicist with passion for science, programming and art. With a professional knowledge in front-end, data science and computational physics (and computational science).</p>
 </div>
+
+<br>
+<br>
 
 <div id="badges" align="center">
     <a href="https://twitter.com/iaaron_xyz">
