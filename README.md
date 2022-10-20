@@ -24,7 +24,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/>&nbsp;
 </div>
 
-### Programming and Styling languages
+### Markup and Styling languages
 <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
