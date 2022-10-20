@@ -19,21 +19,36 @@
 ## Favorite tools, I feel comfortable working with:
 ### Programming languages
 <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python 3" alt="Python" width="40" height="40"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" title="julia" alt="julia" width="40" height="40"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/>&nbsp;
+        <img src="./images/icons/python.png" title="Python 3" alt="Python" height="40"/>&nbsp;
+        <img src="./images/icons/julia.png" title="julia" alt="julia" height="40"/>&nbsp;
+        <img src="./images/icons/javascript.png" title="JavaScript" alt="javascript" height="40"/>&nbsp;
 </div>
 
 ### Markup and Styling languages
 <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="./images/icons/html.png" title="HTML5" alt="HTML" height="40"/>&nbsp;
+        <img src="./images/icons/css3.png" title="CSS3" alt="CSS" height="40"/>&nbsp;
+</div>
+
+### Frameworks and Libraries
+<div>
+        <img src="./images/icons/p5js.png" title="p5js" alt="p5js" height="40"/>&nbsp;
 </div>
 
 ### Software and Tools
 <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter notebooks" alt="jupyter notebooks" width="40" height="40"/>&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" alt="blender" width="40" height="40"/>&nbsp;
+        <img src="./images/icons/jupyter.png" title="jupyter notebooks" alt="jupyter notebooks" width="40" height="40"/>&nbsp;
+        <img src="./images/icons/github.png" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+        <img src="./images/icons/git.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+        <img src="./images/icons/vscode.png" title="VS Code" alt="VSCode" width="40" height="40"/>&nbsp;
+        <img src="./images/icons/blender.png" title="Blender" alt="blender" width="40" height="40"/>&nbsp;
+</div>
+
+### Currently Learning
+<div>
+        <img src="./images/icons/qiskit.png" title="Qiskit" alt="Qiskit" height="40"/>&nbsp;
+        <img src="./images/icons/lua.png" title="Lua" alt="Lua" height="40"/>&nbsp;
+        <img src="./images/icons/rust.png" title="Rust" alt="Rust" height="40"/>&nbsp;
 </div>
 
 ## :fire: Streak stats
