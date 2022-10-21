@@ -3,7 +3,7 @@
         Hi! Welcome to my Profile! I'm Aaron
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     </h1>
-    <p align="left">I am a physicist with passion for science, programming and art. With a professional knowledge in front-end, data science and computational physics (and computational science).</p>
+    <p align="left">I am a physicist with passion for science, programming and 3D art. With a professional knowledge in front-end, data science and computational physics (and computational science) and also for 3D modelling.</p>
 </div>
 
 <br>
