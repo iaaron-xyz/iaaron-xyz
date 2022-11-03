@@ -46,7 +46,15 @@
 
 ### Currently Learning
 <div>
-        <img src="./images/icons/qiskit.png" title="Qiskit" alt="Qiskit" height="40"/>&nbsp;
+        <img src="./images/icons/numpy.png" title="Numpy" alt="Numpy" height="40"/>&nbsp;
+        <img src="./images/icons/pandas.png" title="Pandas" alt="Pandas" height="40"/>&nbsp;
+        <img src="./images/icons/matplotlib2.png" title="Matplotlib" alt="Matplotlib" height="40"/>&nbsp;
+        <img src="./images/icons/scipy.png" title="Scipy" alt="Scipy" height="40"/>&nbsp;
+        <img src="./images/icons/plutojl2.png" title="Pluto.jl" alt="Pluto.jl" height="35"/>&nbsp;
+        <img src="./images/icons/qiskit.png" title="Qiskit" alt="Qiskit" alt="Pluto.jl" height="35"/>&nbsp;
+</div>
+### To learn later
+<div>
         <img src="./images/icons/lua.png" title="Lua" alt="Lua" height="40"/>&nbsp;
         <img src="./images/icons/rust.png" title="Rust" alt="Rust" height="40"/>&nbsp;
 </div>
