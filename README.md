@@ -52,6 +52,7 @@
         <img src="./images/icons/plutojl2.png" title="Pluto.jl" alt="Pluto.jl" height="35"/>&nbsp;
         <img src="./images/icons/qiskit.png" title="Qiskit" alt="Qiskit" alt="Pluto.jl" height="35"/>&nbsp;
 </div>
+
 ### To learn later
 <div>
         <img src="./images/icons/lua.png" title="Lua" alt="Lua" height="40"/>&nbsp;
