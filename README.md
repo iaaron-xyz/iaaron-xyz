@@ -47,10 +47,10 @@
         <img src="./images/icons/numpy_xnc.png" title="Numpy" alt="Numpy" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="./images/icons/pandas_xnc.png" title="Pandas" alt="Pandas" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="./images/icons/matplotlib2_xnc.png" title="Matplotlib" alt="Matplotlib" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="./images/icons/scipy_xnc.png" title="Scipy" alt="Scipy" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="./images/icons/pluto_xnc.png" title="Pluto.jl" alt="Pluto.jl" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./images/icons/scipy_xnc.png" title="Scipy" alt="Scipy" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./images/icons/pluto_xnc.png" title="Pluto.jl" alt="Pluto.jl" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="./images/icons/qiskit_xnc.png" title="Qiskit" alt="Qiskit" alt="Qiskit" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="./images/icons/django1_xnc.png" title="Django" alt="Django" alt="Django" height="50"/>
+        <img src="./images/icons/django1_xnc.png" title="Django" alt="Django" alt="Django" height="40"/>
 
 </div>
 
