@@ -18,45 +18,48 @@
 ## Favorite tools, I feel comfortable working with:
 ### Programming languages
 <div>
-        <img src="./images/icons/python.png" title="Python 3" alt="Python" height="40"/>&nbsp;
-        <img src="./images/icons/julia.png" title="julia" alt="julia" height="40"/>&nbsp;
-        <img src="./images/icons/javascript.png" title="JavaScript" alt="javascript" height="40"/>&nbsp;
+        <img src="./images/icons/python_xnc.png" title="Python 3" alt="Python" height="50"/>&nbsp;
+        <img src="./images/icons/julialang_xnc.png" title="julia" alt="julia" height="50"/>&nbsp;
+        <img src="./images/icons/javascript_xnc.png" title="JavaScript" alt="javascript" height="50"/>&nbsp;
 </div>
 
 ### Markup and Styling languages
 <div>
-        <img src="./images/icons/html.png" title="HTML5" alt="HTML" height="40"/>&nbsp;
-        <img src="./images/icons/css3.png" title="CSS3" alt="CSS" height="40"/>&nbsp;
+        <img src="./images/icons/html_xnc.png" title="HTML5" alt="HTML" height="50"/>&nbsp;
+        <img src="./images/icons/css_xnc.png" title="CSS3" alt="CSS" height="50"/>&nbsp;
 </div>
 
 ### Frameworks and Libraries
 <div>
-        <img src="./images/icons/p5js.png" title="p5js" alt="p5js" height="40"/>&nbsp;
+        <img src="./images/icons/p5js_xnc.png" title="p5js" alt="p5js" height="40"/>&nbsp;
 </div>
 
 ### Software and Tools
 <div>
-        <img src="./images/icons/jupyter.png" title="jupyter notebooks" alt="jupyter notebooks" width="40" height="40"/>&nbsp;
-        <img src="./images/icons/github.png" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-        <img src="./images/icons/git.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-        <img src="./images/icons/vscode.png" title="VS Code" alt="VSCode" width="40" height="40"/>&nbsp;
-        <img src="./images/icons/blender.png" title="Blender" alt="blender" width="40" height="40"/>&nbsp;
+        <img src="./images/icons/jupyter_xnc.png" title="jupyter notebooks" alt="jupyter notebooks" height="50"/>&nbsp;
+        <img src="./images/icons/git_xnc.png" title="Git" alt="Git" height="50"/>&nbsp;
+        <img src="./images/icons/vscode_xnc.png" title="VS Code" alt="VSCode" height="50"/>&nbsp;
+        <img src="./images/icons/blender_xnc.png" title="Blender" alt="blender" height="50"/>&nbsp;
 </div>
 
 ### Currently Learning
 <div>
-        <img src="./images/icons/numpy.png" title="Numpy" alt="Numpy" height="40"/>&nbsp;
-        <img src="./images/icons/pandas.png" title="Pandas" alt="Pandas" height="40"/>&nbsp;
-        <img src="./images/icons/matplotlib2.png" title="Matplotlib" alt="Matplotlib" height="40"/>&nbsp;
-        <img src="./images/icons/scipy.png" title="Scipy" alt="Scipy" height="40"/>&nbsp;
-        <img src="./images/icons/plutojl2.png" title="Pluto.jl" alt="Pluto.jl" height="35"/>&nbsp;
-        <img src="./images/icons/qiskit.png" title="Qiskit" alt="Qiskit" alt="Pluto.jl" height="35"/>&nbsp;
+        <img src="./images/icons/numpy_xnc.png" title="Numpy" alt="Numpy" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./images/icons/pandas_xnc.png" title="Pandas" alt="Pandas" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./images/icons/matplotlib2_xnc.png" title="Matplotlib" alt="Matplotlib" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./images/icons/scipy_xnc.png" title="Scipy" alt="Scipy" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./images/icons/pluto_xnc.png" title="Pluto.jl" alt="Pluto.jl" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./images/icons/qiskit_xnc.png" title="Qiskit" alt="Qiskit" alt="Qiskit" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="./images/icons/django1_xnc.png" title="Django" alt="Django" alt="Django" height="50"/>
+
 </div>
 
 ### To learn later
 <div>
-        <img src="./images/icons/lua.png" title="Lua" alt="Lua" height="40"/>&nbsp;
-        <img src="./images/icons/rust.png" title="Rust" alt="Rust" height="40"/>&nbsp;
+        <img src="./images/icons/react2_xnc.png" title="Reactjs" alt="Reactjs" height="50"/>&nbsp;
+        <img src="./images/icons/node_xnc.png" title="Nodejs" alt="Nodejs" height="50"/>&nbsp;
+        <img src="./images/icons/lua_xnc.png" title="Lua" alt="Lua" height="50"/>&nbsp;
+        <img src="./images/icons/rust_xnc.png" title="Rust" alt="Rust" height="50"/>&nbsp;
 </div>
 
 ## Some of My Repos
