@@ -46,6 +46,7 @@
 <div>
         <img src="./images/icons/sqlite_xnc.png" title="Sqlite" alt="Sqlite" height="50"/>&nbsp;
 </div>
+
 ### Currently Learning
 <div>
         <img src="./images/icons/numpy_xnc.png" title="Numpy" alt="Numpy" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -74,9 +75,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=rock-paper-scissors&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/rock-paper-scissors)
 
 ### CS50 Harvard courses
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=cs50x&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,159957,155799)](https://github.com/iaaron-xyz/iaaron-xyz.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=cs50-python&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,159957,155799)](https://github.com/iaaron-xyz/calculator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=cs50w&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,159957,155799)](https://github.com/iaaron-xyz/etch-a-sketch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=cs50x&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,159957,155799)](https://github.com/iaaron-xyz/cs50x)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=cs50-python&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,159957,155799)](https://github.com/iaaron-xyz/cs50-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=cs50w&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,159957,155799)](https://github.com/iaaron-xyz/cs50w)
 
 ## :fire: Streak stats
 <p align="center">
