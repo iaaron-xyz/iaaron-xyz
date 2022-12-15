@@ -3,7 +3,7 @@
         Hi! Welcome to my Profile! I'm Aaron
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     </h1>
-    <p align="left">I am physicist that currently is studying the computational and data science fields. Self-taught frontend developer and 3D artists for Real Time Environments at a professional level.</p>
+    <p align="left">I am a self-taught frontend developer and 3D artist with backgraound styudies in phyisics.</p>
 </div>
 
 <br>
