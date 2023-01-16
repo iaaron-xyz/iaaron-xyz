@@ -76,6 +76,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=sign-up-form&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/sign-up-form/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=admin-dashboard-demo&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/admin-dashboard-demo/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=my-library&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/my-library/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=my-tic-tac-toe&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/my-tic-tac-toe)
 
 ### CS50 Harvard courses
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=cs50x&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,159957,155799)](https://github.com/iaaron-xyz/cs50x)
