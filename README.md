@@ -68,13 +68,10 @@
 </div>
 
 ## Some of My Repos
-### Frontend Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=iaaron-xyz.github.io&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/iaaron-xyz.github.io)
+### My latest 5 Front-end Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=calculator&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/calculator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=etch-a-sketch&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/etch-a-sketch)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=rock-paper-scissors&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/rock-paper-scissors)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=sign-up-form&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/sign-up-form/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=admin-dashboard-demo&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/admin-dashboard-demo/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=my-library&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/my-library/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=my-tic-tac-toe&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/my-tic-tac-toe)
 
