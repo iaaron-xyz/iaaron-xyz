@@ -31,15 +31,18 @@
 
 ### Frameworks and Libraries
 <div>
-        <img src="./images/icons/p5js_xnc.png" title="p5js" alt="p5js" height="40"/>&nbsp;
+        <img src="./images/icons/tailwind_xnc.webp" title="TailwindCSS" alt="tailwindcss" height="40"/>&nbsp; &nbsp;
+        <img src="./images/icons/p5js_xnc.png" title="p5js" alt="p5js" height="35"/>&nbsp;
 </div>
 
 ### Software and Tools
 <div>
-        <img src="./images/icons/jupyter_xnc.png" title="jupyter notebooks" alt="jupyter notebooks" height="50"/>&nbsp;
         <img src="./images/icons/git_xnc.png" title="Git" alt="Git" height="50"/>&nbsp;
         <img src="./images/icons/vscode_xnc.png" title="VS Code" alt="VSCode" height="50"/>&nbsp;
+        <img src="./images/icons/webpack_xnc.webp" title="Webpack" alt="webpack" height="50"/>&nbsp;
+        <img src="./images/icons/jupyter_xnc.png" title="jupyter notebooks" alt="jupyter notebooks" height="50"/>&nbsp;
         <img src="./images/icons/blender_xnc.png" title="Blender" alt="blender" height="50"/>&nbsp;
+        <img src="./images/icons/unreal_white_xnc.png" title="Unreal" alt="unreal" height="50"/>&nbsp;
 </div>
 
 ### Databases and Query Languages
