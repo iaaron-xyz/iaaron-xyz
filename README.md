@@ -33,6 +33,8 @@
 <div>
         <img src="./images/icons/tailwind_xnc.webp" title="TailwindCSS" alt="tailwindcss" height="40"/>&nbsp; &nbsp;
         <img src="./images/icons/p5js_xnc.png" title="p5js" alt="p5js" height="35"/>&nbsp;
+        <img src="./images/icons/pluto_xnc.png" title="Pluto.jl" alt="Pluto.jl" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </div>
 
 ### Software and Tools
@@ -56,7 +58,6 @@
         <img src="./images/icons/pandas_xnc.png" title="Pandas" alt="Pandas" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="./images/icons/matplotlib2_xnc.png" title="Matplotlib" alt="Matplotlib" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="./images/icons/scipy_xnc.png" title="Scipy" alt="Scipy" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="./images/icons/pluto_xnc.png" title="Pluto.jl" alt="Pluto.jl" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="./images/icons/qiskit_xnc.png" title="Qiskit" alt="Qiskit" alt="Qiskit" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="./images/icons/django1_xnc.png" title="Django" alt="Django" alt="Django" height="40"/>
 
