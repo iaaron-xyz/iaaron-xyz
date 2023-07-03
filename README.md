@@ -75,13 +75,13 @@
 
 ## Some of My Repos
 ### My latest 5 Front-end Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=cv-application&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/cv-application)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=weather-site&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/weather-site)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=todo-list&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/todo-list)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=etch-a-sketch&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/etch-a-sketch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=my-library&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/my-library/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=my-tic-tac-toe&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/my-tic-tac-toe)
 
-Other interesting projects: [Calculator](https://github.com/iaaron-xyz/calculator), [restaurant page](https://github.com/iaaron-xyz/restaurant-page) and [Rock paper and Scissors](https://github.com/iaaron-xyz/rock-paper-scissors).
+Other interesting projects: [Calculator](https://github.com/iaaron-xyz/calculator), [My library tracker app](https://github.com/iaaron-xyz/my-library/), [restaurant page](https://github.com/iaaron-xyz/restaurant-page) and [Rock paper and Scissors](https://github.com/iaaron-xyz/rock-paper-scissors).
 
 ### CS50 Harvard courses
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=cs50x&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,159957,155799)](https://github.com/iaaron-xyz/cs50x)
