@@ -81,7 +81,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=todo-list&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/todo-list)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=etch-a-sketch&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,FC5C7D,6A82FB)](https://github.com/iaaron-xyz/etch-a-sketch)
 
-Other interesting projects: [Calculator](https://github.com/iaaron-xyz/calculator), [My library tracker app](https://github.com/iaaron-xyz/my-library/), [restaurant page](https://github.com/iaaron-xyz/restaurant-page) and [Rock paper and Scissors](https://github.com/iaaron-xyz/rock-paper-scissors).
+Other interesting projects:[Tic-Tac-Toe](https://github.com/iaaron-xyz/my-tic-tac-toe) [Calculator](https://github.com/iaaron-xyz/calculator), [My library tracker app](https://github.com/iaaron-xyz/my-library/), [restaurant page](https://github.com/iaaron-xyz/restaurant-page) and [Rock paper and Scissors](https://github.com/iaaron-xyz/rock-paper-scissors).
 
 ### CS50 Harvard courses
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=cs50x&title_color=fff&icon_color=f9f9f9&text_color=ffffff&bg_color=30,159957,155799)](https://github.com/iaaron-xyz/cs50x)
