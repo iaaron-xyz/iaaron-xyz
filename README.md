@@ -31,6 +31,7 @@
 
 ### Frameworks and Libraries
 <div>
+        <img src="./images/icons/react2_xnc.png" title="Reactjs" alt="Reactjs" height="50"/>&nbsp;
         <img src="./images/icons/tailwind_xnc.webp" title="TailwindCSS" alt="tailwindcss" height="40"/>&nbsp; &nbsp;
         <img src="./images/icons/p5js_xnc.png" title="p5js" alt="p5js" height="35"/>&nbsp;
         <img src="./images/icons/pluto_xnc.png" title="Pluto.jl" alt="Pluto.jl" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -54,7 +55,6 @@
 
 ### Currently Learning
 <div>
-        <img src="./images/icons/react2_xnc.png" title="Reactjs" alt="Reactjs" height="50"/>&nbsp;
         <img src="./images/icons/Nextjs_xnc.png" title="Nextjs" alt="Nextjs" height="40"/>&nbsp;
         <img src="./images/icons/Redux_xnc.png" title="Redux" alt="Redux" height="50"/>&nbsp;
         <img src="./images/icons/numpy_xnc.png" title="Numpy" alt="Numpy" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
