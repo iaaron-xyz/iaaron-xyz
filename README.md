@@ -8,11 +8,11 @@
 
 <br>
 
-<div id="badges" align="center">
+<!--div id="badges" align="center">
     <a href="https://twitter.com/iaaron_xyz">
         <img src="https://img.shields.io/twitter/url?label=My%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fiaaron_xyz" alt="Twitter Badge">
     </a>
-</div>
+</div-->
 
 
 ## Favorite tools, I feel comfortable working with:
