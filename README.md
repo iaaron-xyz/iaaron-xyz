@@ -1,5 +1,5 @@
 <p><pre align="center">
-<strong>Aaron /</strong> <a href="">Homepage</a> / <a href="">LinkedIn</a> / <a href="">X</a> / <a href="">Sketchfab</a> / <a href="">Gumroad</a></pre></p>
+<strong>Aaron /</strong> <a href="">Homepage</a> / <a href="">LinkedIn</a> / <a href="https://github.com/iaaron-xyz">Github</a> / <a href="">Sketchfab</a> / <a href="">Gumroad</a></pre></p>
 
 ## Top Repositories
 
@@ -22,28 +22,45 @@ Other frontend projects:
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="iaaron-xyz's streak" src="https://streak-stats.demolab.com/?user=iaaron-xyz&theme=transparent&hide_border=true"/>
   </a>
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaaron-xyz&langs_count=6&theme=transparent&layout=compact&hide_border=true" alt="iaaron-xyz :: Top Langs" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaaron-xyz&langs_count=6&theme=transparent&layout=compact&hide_border=true" alt="iaaron-xyz :: Top Langs" />
+</p>
 </div>
 
-# Skills
+## Skills and Knowledge
 
-<p><pre>
+<div><pre>
 <ul>
 <li><strong>Programming languages</strong>:
-Python <span style="color: #555;">/</span> JavaScript <span style="color: #555;">/</span> Julia
+Python <span style="color: #555;">/</span> JavaScript <span style="color: #555;">/</span> Julia</li>
 
 <li><strong>Markup & Style Languages</strong>:
 HTML / CSS / Markdown / LaTeX
+</li>
 
 <li><strong>Frontend Frameworks and Technologies</strong>:
 React.js / TailwindCSS / Vite.js / Astro
+</li>
 
 <li><strong>Backend Frameworks and Technologies</strong>:
-Node.js / Express
+Node.js / Express / Django
+</li>
 
 <li><strong>Data Science and Data Analysis</strong>:
 Excel (with Macros) / NumPy / Pandas / Matplotlib / Jupyter Notebooks / Pluto (Julia Notebooks) / Polar / Seaborn
+</li>
+
+<li><strong>Creative coding Frameworks and Libraries</strong>:
+P5.js / OpenFrameworks
+</li>
+
+<li><strong>Game Development</strong>:
+PyGames
+</li>
+
+<li><strong>Tools</strong>:
+Git & Github / Prettier / NPM / Linux
+</li>
 
 <li><strong>Software</strong>:
-VSCode / Photoshop / Krita / Illustrator / Inkscape / Blender / Unreal Engine 5
-</ul></pre></p>
+VSCode / Photoshop / Krita / Illustrator / Inkscape / Blender / Unreal Engine 5</li></ul></pre></div>
