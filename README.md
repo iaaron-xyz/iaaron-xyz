@@ -24,3 +24,26 @@ Other frontend projects:
 </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaaron-xyz&langs_count=6&theme=transparent&layout=compact&hide_border=true" alt="iaaron-xyz :: Top Langs" /></p>
 </div>
+
+# Skills
+
+<p><pre>
+<ul>
+<li><strong>Programming languages</strong>:
+Python <span style="color: #555;">/</span> JavaScript <span style="color: #555;">/</span> Julia
+
+<li><strong>Markup & Style Languages</strong>:
+HTML / CSS / Markdown / LaTeX
+
+<li><strong>Frontend Frameworks and Technologies</strong>:
+React.js / TailwindCSS / Vite.js / Astro
+
+<li><strong>Backend Frameworks and Technologies</strong>:
+Node.js / Express
+
+<li><strong>Data Science and Data Analysis</strong>:
+Excel (with Macros) / NumPy / Pandas / Matplotlib / Jupyter Notebooks / Pluto (Julia Notebooks) / Polar / Seaborn
+
+<li><strong>Software</strong>:
+VSCode / Photoshop / Krita / Illustrator / Inkscape / Blender / Unreal Engine 5
+</ul></pre></p>
