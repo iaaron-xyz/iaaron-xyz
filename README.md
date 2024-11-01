@@ -34,20 +34,20 @@ Other frontend projects:
 <li><strong>Programming languages</strong>:
 Python <span style="color: #555;">/</span> JavaScript <span style="color: #555;">/</span> Julia</li>
 
-<li><strong>Markup & Style Languages</strong>:
-HTML / CSS / Markdown / LaTeX
+<li><strong>Front-end technologies</strong>:
+HTML / CSS / React.js / TailwindCSS / Vite.js / Astro
 </li>
 
-<li><strong>Frontend Frameworks and Technologies</strong>:
-React.js / TailwindCSS / Vite.js / Astro
-</li>
-
-<li><strong>Backend Frameworks and Technologies</strong>:
+<li><strong>Backend technologies</strong>:
 Node.js / Express / Django
 </li>
 
-<li><strong>Data Science and Data Analysis</strong>:
+<li><strong>Data Science and Scientific comptuing</strong>:
 Excel (with Macros) / NumPy / Pandas / Matplotlib / Jupyter Notebooks / Pluto (Julia Notebooks) / Polar / Seaborn
+</li>
+
+<li><strong>Markup languages</strong>:
+Markdown / LaTeX
 </li>
 
 <li><strong>Creative coding Frameworks and Libraries</strong>:
@@ -55,12 +55,12 @@ P5.js / OpenFrameworks
 </li>
 
 <li><strong>Game Development</strong>:
-PyGames
+Unreal Engine 5
 </li>
 
-<li><strong>Tools</strong>:
-Git & Github / Prettier / NPM / Linux
+<li><strong>Coding tools</strong>:
+VSCode / Git & Github / NPM / Linux
 </li>
 
-<li><strong>Software</strong>:
-VSCode / Photoshop / Krita / Illustrator / Inkscape / Blender / Unreal Engine 5</li></ul></pre></div>
+<li><strong>Art software tools</strong>:
+Photoshop / Krita / Illustrator / Inkscape / Blender</li></ul></pre></div>
