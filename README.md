@@ -1,5 +1,5 @@
 <p><pre align="center">
-<strong>Aaron /</strong> <a href="">Homepage</a> / <a href="">LinkedIn</a> / <a href="https://github.com/iaaron-xyz">Github</a> / <a href="">Sketchfab</a> / <a href="">Gumroad</a></pre></p>
+<strong>Aaron /</strong> <a href="https://iaaron-xyz.github.io/">Homepage</a> / <a href="">LinkedIn</a> / <a href="https://github.com/iaaron-xyz">Github</a> / <a href="">Sketchfab</a> / <a href="">Gumroad</a></pre></p>
 
 ## Top Repositories
 
