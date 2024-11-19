@@ -39,7 +39,7 @@ HTML / CSS / React.js / TailwindCSS / Vite.js / Astro
 </li>
 
 <li><strong>Backend technologies</strong>:
-Node.js / Express / Django
+Node.js / Express / Django / FastAPI
 </li>
 
 <li><strong>Data Science and Scientific comptuing</strong>:
