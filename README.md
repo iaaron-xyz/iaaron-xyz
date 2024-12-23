@@ -5,10 +5,10 @@
 
 ### My latest 4 Front-end Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=memory-game&theme=transparent&border_color=222)](https://github.com/iaaron-xyz/memory-game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=cv-application&theme=transparent&border_color=222)](https://github.com/iaaron-xyz/cv-application)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=weather-site&theme=transparent&border_color=222)](https://github.com/iaaron-xyz/weather-site)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=todo-list&theme=transparent&border_color=222)](https://github.com/iaaron-xyz/todo-list)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=memory-game&theme=react&border_color=222)](https://github.com/iaaron-xyz/memory-game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=cv-application&theme=react&border_color=222)](https://github.com/iaaron-xyz/cv-application)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=weather-site&theme=react&border_color=222)](https://github.com/iaaron-xyz/weather-site)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iaaron-xyz&repo=todo-list&theme=react&border_color=222)](https://github.com/iaaron-xyz/todo-list)
 
 Other frontend projects:
 
@@ -19,11 +19,11 @@ Other frontend projects:
 <div>
 <p align="center">
   <a href="https://github.com/iaaron-xyz/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="iaaron-xyz's streak" src="https://streak-stats.demolab.com/?user=iaaron-xyz&theme=transparent&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="iaaron-xyz's streak" src="https://streak-stats.demolab.com/?user=iaaron-xyz&theme=react&hide_border=true"/>
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaaron-xyz&langs_count=6&theme=transparent&layout=compact&hide_border=true" alt="iaaron-xyz :: Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaaron-xyz&langs_count=6&theme=react&layout=compact&hide_border=true" alt="iaaron-xyz :: Top Langs" />
 </p>
 </div>
 
